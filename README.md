@@ -18,7 +18,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 - Removed unnecessary columns → Status, unnamed1
 - Cleaned null values + converted datatypes<br><br>
 
-
+<hr>
 📊 ***Exploratory Data Analysis (EDA)*** <br>
 
 1️⃣ **Gender-based Sales**
@@ -29,7 +29,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 
 📌 Female customers dominate in amount spent.<br><br>
 
-
+<hr>
 2️⃣ **Age Group Analysis**
 
 <p align="center">
@@ -80,7 +80,7 @@ IT | Healthcare | Aviation<br><br>
 📌 Best-selling categories: 
 Food | Clothing | Electronics<br><br>
 
-🎯 **Key Business Insights**
+🎯 **Key Business Insights**<br>
 Married women (Age 26-35) from Uttar Pradesh, Maharashtra & Karnataka, working in IT / Healthcare / Aviation, are the highest revenue-generating segment — especially purchasing Food, Clothing & Electronics.<br><br>
 
 💡 Targeting this segment during festive seasons with discounts and campaigns can massively boost sales.
