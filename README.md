@@ -24,8 +24,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 1️⃣ Gender-based Sales
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="1.png" width="550">  
 </p>
 
 📌 Female customers dominate both in count & amount spent.
@@ -34,8 +33,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 2️⃣ Age Group Analysis
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="2.png" width="550">  
 </p>
 
 📌 Highest purchasing customers = Age 26–35, mostly women.<br><br>
@@ -44,8 +42,8 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 3️⃣ State-wise Sales Performance
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="3a.png" width="550">  
+  <img src="3b.png" width="550">
 </p>
 
 📌 Top Revenue Generating States:
@@ -57,8 +55,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 4️⃣ Marital Status Insights
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="4.png" width="550"> 
 </p>
 
 📌 Married women contribute the most to sales volume.<br><br>
@@ -67,8 +64,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 5️⃣ Occupation vs Sales
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="5.png" width="550">
 </p>
 
 📌 Highest spenders work in:
@@ -80,8 +76,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 6️⃣ Item Category & Top Products
 
 <p align="center">
-  <img src="report1.png" width="550">  
-  <img src="cm1.png" width="550">
+  <img src="6.png" width="550">
 </p>
 
 📌 Best-selling categories:
