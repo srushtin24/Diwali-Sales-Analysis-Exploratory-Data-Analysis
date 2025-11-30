@@ -21,7 +21,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 
 📊 ***Exploratory Data Analysis (EDA)*** <br>
 
-1️⃣ Gender-based Sales
+1️⃣ **Gender-based Sales**
 
 <p align="center">
   <img src="1.png" width="550">  
@@ -30,7 +30,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 📌 Female customers dominate in amount spent.<br><br>
 
 
-2️⃣ Age Group Analysis
+2️⃣ **Age Group Analysis**
 
 <p align="center">
   <img src="2.png" width="550">  
@@ -39,7 +39,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 📌 Highest purchasing customers = Age 26–35.<br><br>
 
 
-3️⃣ State-wise Sales Performance
+3️⃣ **State-wise Sales Performance**
 
 <p align="center">
   <img src="3a.png" width="700">  
@@ -52,7 +52,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 3.	Karnataka<br><br>
 
 
-4️⃣ Marital Status Insights
+4️⃣ **Marital Status Insights**
 
 <p align="center">
   <img src="4.png" width="550"> 
@@ -61,28 +61,26 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 📌 Married women contribute the most to sales volume.<br><br>
 
 
-5️⃣ Occupation vs Sales
+5️⃣ **Occupation vs Sales**
 
 <p align="center">
   <img src="5.png" width="550">
 </p>
 
-📌 Highest spenders work in:
-💼 IT
-🏥 Healthcare
-✈ Aviation<br><br>
+📌 Highest spenders work in: 
+IT | Healthcare | Aviation<br><br>
 
 
-6️⃣ Item Category & Top Products
+6️⃣ **Item Category & Top Products**
 
 <p align="center">
   <img src="6.png" width="550">
 </p>
 
-📌 Best-selling categories:
-🥗 Food | 👚 Clothing | 📱 Electronics<br><br>
+📌 Best-selling categories: 
+Food | Clothing | Electronics<br><br>
 
-🎯 Key Business Insights
+🎯 **Key Business Insights**
 Married women (Age 26-35) from Uttar Pradesh, Maharashtra & Karnataka, working in IT / Healthcare / Aviation, are the highest revenue-generating segment — especially purchasing Food, Clothing & Electronics.<br><br>
 
 💡 Targeting this segment during festive seasons with discounts and campaigns can massively boost sales.
