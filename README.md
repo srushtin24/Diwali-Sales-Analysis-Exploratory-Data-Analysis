@@ -27,7 +27,7 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
   <img src="1.png" width="550">  
 </p>
 
-📌 Female customers dominate both in count & amount spent.
+📌 Female customers dominate in amount spent.<br><br>
 
 
 2️⃣ Age Group Analysis
@@ -36,20 +36,20 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
   <img src="2.png" width="550">  
 </p>
 
-📌 Highest purchasing customers = Age 26–35, mostly women.<br><br>
+📌 Highest purchasing customers = Age 26–35.<br><br>
 
 
 3️⃣ State-wise Sales Performance
 
 <p align="center">
-  <img src="3a.png" width="550">  
-  <img src="3b.png" width="550">
+  <img src="3a.png" width="700">  
+  <img src="3b.png" width="700">
 </p>
 
 📌 Top Revenue Generating States:
-1	Uttar Pradesh
-2	Maharashtra
-3	Karnataka<br><br>
+1.	Uttar Pradesh
+2.	Maharashtra
+3.	Karnataka<br><br>
 
 
 4️⃣ Marital Status Insights
@@ -83,4 +83,6 @@ This project performs end-to-end analysis of Diwali sales data to understand cus
 🥗 Food | 👚 Clothing | 📱 Electronics<br><br>
 
 🎯 Key Business Insights
-Married women (Age 26-35) from Uttar Pradesh, Maharashtra & Karnataka, working in IT / Healthcare / Aviation, are the highest revenue-generating segment — especially purchasing Food, Clothing & Electronics.
+Married women (Age 26-35) from Uttar Pradesh, Maharashtra & Karnataka, working in IT / Healthcare / Aviation, are the highest revenue-generating segment — especially purchasing Food, Clothing & Electronics.<br><br>
+
+💡 Targeting this segment during festive seasons with discounts and campaigns can massively boost sales.
